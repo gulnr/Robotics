@@ -1,0 +1,2 @@
+project_gazebo:project_ros
+-DCATKIN_DEVEL_PREFIX=/home/eylul/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eylul/catkin_ws/install -G Unix Makefiles

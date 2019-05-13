@@ -1,0 +1,8 @@
+prefix=/home/eylul/catkin_ws/devel
+
+Name: trajectory_referee_456
+Description: Description of trajectory_referee_456
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eylul/catkin_ws/devel/lib 
+Requires: 

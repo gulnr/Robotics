@@ -1,0 +1,8 @@
+prefix=/home/eylul/catkin_ws/devel
+
+Name: a1_456_referee
+Description: Description of a1_456_referee
+Version: 1.0.0
+Cflags: -I/home/eylul/catkin_ws/src/a1_456_referee/include
+Libs: -L/home/eylul/catkin_ws/devel/lib -lgazebo_map_publisher
+Requires: geometry_msgs roscpp std_msgs nav_msgs gazebo_ros eigen_conversions

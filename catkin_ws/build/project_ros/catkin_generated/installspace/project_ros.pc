@@ -1,0 +1,8 @@
+prefix=/home/eylul/catkin_ws/install
+
+Name: project_ros
+Description: Description of project_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/eylul/catkin_ws/install/lib 
+Requires: 

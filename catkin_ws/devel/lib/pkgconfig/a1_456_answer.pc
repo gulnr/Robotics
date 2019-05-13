@@ -1,0 +1,8 @@
+prefix=/home/eylul/catkin_ws/devel
+
+Name: a1_456_answer
+Description: Description of a1_456_answer
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/eylul/catkin_ws/devel/lib 
+Requires: 

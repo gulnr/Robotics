@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -shared -Wl,-soname,libgazebo_map_publisher.so -o /home/eylul/catkin_ws/devel/lib/libgazebo_map_publisher.so CMakeFiles/gazebo_map_publisher.dir/src/GazeboMapPublisher.cpp.o 

@@ -1,0 +1,14 @@
+
+<launch>
+
+  <!-- start the simulator with some objects and turtlebot -->
+
+  <include file="$(find turtlebot_gazebo)/launch/turtlebot_world.launch" >
+    <arg name="world_file" value="$(find project_gazebo)/worlds/maze_test.world"/>
+  </include>
+
+
+  <!-- start some nice visualisations from the robot's perspective -->
+  <include file="$(find turtlebot_rviz_launchers)/launch/view_navigation.launch"/>
+
+</launch>
